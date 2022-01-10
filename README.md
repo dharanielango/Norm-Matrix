@@ -30,7 +30,7 @@ print("{:.2f}".format(value))
 
 
 ```
-## Sample Input and Output:
+## Output:
 ![norm1](./n.png)
 
 ## Result
